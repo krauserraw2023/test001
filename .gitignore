@@ -1,3 +1,104 @@
 # Ignorar carpetas Debug
 .cr/*
 .vs/*
+
+# APP/bin/Debug/**
+# APP/bin/Release/**
+# APP/obj/Debug/**
+# APP/obj/Release/**
+
+# APPCamaraWeb/bin/Debug/**
+# APPCamaraWeb/bin/Release/**
+# APPCamaraWeb/obj/Debug/**
+# APPCamaraWeb/obj/Release/**
+
+# APPControlHuellaVisita/bin/Debug/**
+# APPControlHuellaVisita/bin/Release/**
+# APPControlHuellaVisita/obj/Debug/**
+# APPControlHuellaVisita/obj/Release/**
+
+# APPControls/bin/Debug/**
+# APPControls/bin/Release/**
+# APPControls/obj/Debug/**
+# APPControls/obj/Release/**
+
+# APPReporte/bin/Debug/**
+# APPReporte/bin/Release/**
+# APPReporte/obj/Debug/**
+# APPReporte/obj/Release/**
+
+# APPWebService/bin/Debug/**
+# APPWebService/bin/Release/**
+# APPWebService/obj/Debug/**
+# APPWebService/obj/Release/**
+
+# Bussines/bin/Debug/**
+# Bussines/bin/Release/**
+# Bussines/obj/Debug/**
+# Bussines/obj/Release/**
+
+# Data/bin/Debug/**
+# Data/bin/Release/**
+# Data/obj/Debug/**
+# Data/obj/Release/**
+
+# Entity/bin/Debug/**
+# Entity/bin/Release/**
+# Entity/obj/Debug/**
+# Entity/obj/Release/**
+
+# Type/bin/Debug/**
+# Type/bin/Release/**
+# Type/obj/Debug/**
+# Type/obj/Release/**
+
+# No ignorar archivos .ddl
+# !APP/bin/Debug/**/*.ddl
+# !APP/bin/Release/**/*.ddl
+# !APP/obj/Debug/**/*.ddl
+# !APP/obj/Release/**/*.ddl
+
+# !APPCamaraWeb/bin/Debug/**/*.ddl
+# !APPCamaraWeb/bin/Release/**/*.ddl
+# !APPCamaraWeb/obj/Debug/**/*.ddl
+# !APPCamaraWeb/obj/Release/**/*.ddl
+
+# !APPControlHuellaVisita/bin/Debug/**/*.ddl
+# !APPControlHuellaVisita/bin/Release/**/*.ddl
+# !APPControlHuellaVisita/obj/Debug/**/*.ddl
+# !APPControlHuellaVisita/obj/Release/**/*.ddl
+
+# !APPControls/bin/Debug/**/*.ddl
+# !APPControls/bin/Release/**/*.ddl
+# !APPControls/obj/Debug/**/*.ddl
+# !APPControls/obj/Release/**/*.ddl
+
+# !APPReporte/bin/Debug/**/*.ddl
+# !APPReporte/bin/Release/**/*.ddl
+# !APPReporte/obj/Debug/**/*.ddl
+# !APPReporte/obj/Release/**/*.ddl
+
+# !APPWebService/bin/Debug/**/*.ddl
+# !APPWebService/bin/Release/**/*.ddl
+# !APPWebService/obj/Debug/**/*.ddl
+# !APPWebService/obj/Release/**/*.ddl
+
+# !Bussines/bin/Debug/**/*.ddl
+# !Bussines/bin/Release/**/*.ddl
+# !Bussines/obj/Debug/**/*.ddl
+# !Bussines/obj/Release/**/*.ddl
+
+# !Data/bin/Debug/**/*.ddl
+# !Data/bin/Release/**/*.ddl
+# !Data/obj/Debug/**/*.ddl
+# !Data/obj/Release/**/*.ddl
+
+# !Entity/bin/Debug/**/*.ddl
+# !Entity/bin/Release/**/*.ddl
+# !Entity/obj/Debug/**/*.ddl
+# !Entity/obj/Release/**/*.ddl
+
+# !Type/bin/Debug/**/*.ddl
+# !Type/bin/Release/**/*.ddl
+# !Type/obj/Debug/**/*.ddl
+# !Type/obj/Release/**/*.ddl
